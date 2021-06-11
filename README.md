@@ -21,18 +21,18 @@ Mozilla Public License for more details.
 
 #### The Easy Way
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/agentnova/KnowhoBot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/shambhu23/KnowhoBot)
 
 #### Watch video
 
-<a href="https://youtu.be/n3OAebcVgR4"><img src="https://github.com/agentnova/KnowhoBot/blob/master/images%20(1)%7E2.jpg" width="150px"/></a>
+<a href="https://youtu.be/n3OAebcVgR4"><img src="https://github.com/shambhu23/KnowhoBot/blob/master/images%20(1)%7E2.jpg" width="150px"/></a>
 
 
 
 #### The Legacy Way
 Simply clone the repository and run the main file:
 ```sh
-git clone https://github.com/agentnova/KnowhoBot.git
+git clone https://github.com/shambhu23/KnowhoBot.git
 
 cd KnowhoBot
 
